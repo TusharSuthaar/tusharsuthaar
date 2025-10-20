@@ -1,7 +1,7 @@
 <!-- 🟣 TUSHAR SUTHAR | DARK GLASS PORTFOLIO README -->
 
 <p align="center">
-  <img src="./banner-main.png" alt="Tushar Suthar Banner" width="100%" />
+  <img src="./banner-main.png" alt="Tushar Suthar Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Suthar</h1>
